@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs03.codeplex.com:443/" path="$/csbackup/CSBackup.Net/Codigo/" id="419326" changeset="34637" shadow="d20b61227a0947e6b125ac5ba1d4eab5" />
+  <entry name="ApplicationEvents.vb" kind="file" id="419327" changeset="34637" />
+  <entry name="AssemblyInfo.vb" kind="file" id="419328" changeset="34637" />
+  <entry name="bin" kind="folder" id="419329" changeset="34637" shadow="9dfd2e49cf9d469791ca81911b53a660" />
+  <entry name="cBackup.vb" kind="file" id="419334" changeset="34637" />
+  <entry name="cConnection.vb" kind="file" id="419335" changeset="34637" />
+  <entry name="cFile.vb" kind="file" id="419336" changeset="34637" />
+  <entry name="cFileEx.vb" kind="file" id="419337" changeset="34637" />
+  <entry name="cFolder.vb" kind="file" id="419338" changeset="34637" />
+  <entry name="Clock.ico" kind="file" id="419339" changeset="34637" />
+  <entry name="cMouseWait.vb" kind="file" id="419340" changeset="34637" />
+  <entry name="cRegistry.vb" kind="file" id="419341" changeset="34637" />
+  <entry name="cRijndael.vb" kind="file" id="419342" changeset="34637" />
+  <entry name="CSBackup.ini" kind="file" id="419344" changeset="34637" />
+  <entry name="CSBackup.ini.bak" kind="file" id="419343" changeset="34637" />
+  <entry name="CSBackup.sln" kind="file" id="419345" changeset="34637" />
+  <entry name="CSBackup.suo" kind="file" id="419346" changeset="34637" />
+  <entry name="CSBackup.vbproj" kind="file" id="419348" changeset="34637" />
+  <entry name="CSBackup.vbproj.user" kind="file" id="419347" changeset="34637" />
+  <entry name="CSBackupSrv.sln" kind="file" id="419349" changeset="34637" />
+  <entry name="CSBackupSrv.suo" kind="file" id="419350" changeset="34637" />
+  <entry name="CSBackupSrv.vbproj" kind="file" id="419352" changeset="34637" />
+  <entry name="CSBackupSrv.vbproj.user" kind="file" id="419351" changeset="34637" />
+  <entry name="CSBackupSrvTest.sln" kind="file" id="419353" changeset="34637" />
+  <entry name="CSBackupSrvTest.suo" kind="file" id="419354" changeset="34637" />
+  <entry name="cSchedule.vb" kind="file" id="419355" changeset="34637" />
+  <entry name="cScheduleEnums.vb" kind="file" id="419356" changeset="34637" />
+  <entry name="cSQLServerTask.vb" kind="file" id="419357" changeset="34637" />
+  <entry name="cSQLTaskCommandBackup.vb" kind="file" id="419358" changeset="34637" />
+  <entry name="cTask.vb" kind="file" id="419359" changeset="34637" />
+  <entry name="cTaskItem.vb" kind="file" id="419360" changeset="34637" />
+  <entry name="cXml.vb" kind="file" id="419361" changeset="34637" />
+  <entry name="cXmlProperty.vb" kind="file" id="419362" changeset="34637" />
+  <entry name="cZip.vb" kind="file" id="419363" changeset="34637" />
+  <entry name="desktop.ini" kind="file" id="419364" changeset="34637" />
+  <entry name="fAbout.Designer.vb" kind="file" id="419365" changeset="34637" />
+  <entry name="fAbout.resx" kind="file" id="419366" changeset="34637" />
+  <entry name="fAbout.vb" kind="file" id="419367" changeset="34637" />
+  <entry name="fBackup.Designer.vb" kind="file" id="419368" changeset="34637" />
+  <entry name="fBackup.resx" kind="file" id="419369" changeset="34637" />
+  <entry name="fBackup.vb" kind="file" id="419370" changeset="34637" />
+  <entry name="fExplorer.Designer.vb" kind="file" id="419371" changeset="34637" />
+  <entry name="fExplorer.resx" kind="file" id="419372" changeset="34637" />
+  <entry name="fExplorer.vb" kind="file" id="419373" changeset="34637" />
+  <entry name="fMainChild.Designer.vb" kind="file" id="419374" changeset="34637" />
+  <entry name="fMainChild.resx" kind="file" id="419375" changeset="34637" />
+  <entry name="fMainChild.vb" kind="file" id="419376" changeset="34637" />
+  <entry name="fMainMDI.Designer.vb" kind="file" id="419377" changeset="34637" />
+  <entry name="fMainMDI.resx" kind="file" id="419378" changeset="34637" />
+  <entry name="fMainMDI.vb" kind="file" id="419379" changeset="34637" />
+  <entry name="fMasterPassword.Designer.vb" kind="file" id="419380" changeset="34637" />
+  <entry name="fMasterPassword.resx" kind="file" id="419381" changeset="34637" />
+  <entry name="fMasterPassword.vb" kind="file" id="419382" changeset="34637" />
+  <entry name="fPreferences.Designer.vb" kind="file" id="419383" changeset="34637" />
+  <entry name="fPreferences.resx" kind="file" id="419384" changeset="34637" />
+  <entry name="fPreferences.vb" kind="file" id="419385" changeset="34637" />
+  <entry name="fSchedule.Designer.vb" kind="file" id="419386" changeset="34637" />
+  <entry name="fSchedule.resX" kind="file" id="419387" changeset="34637" />
+  <entry name="fSchedule.vb" kind="file" id="419388" changeset="34637" />
+  <entry name="fSQLLogin.Designer.vb" kind="file" id="419389" changeset="34637" />
+  <entry name="fSQLLogin.resx" kind="file" id="419390" changeset="34637" />
+  <entry name="fSQLLogin.vb" kind="file" id="419391" changeset="34637" />
+  <entry name="fTask.Designer.vb" kind="file" id="419392" changeset="34637" />
+  <entry name="fTask.resx" kind="file" id="419393" changeset="34637" />
+  <entry name="fTask.vb" kind="file" id="419394" changeset="34637" />
+  <entry name="fTaskCommandBackup.Designer.vb" kind="file" id="419395" changeset="34637" />
+  <entry name="fTaskCommandBackup.resx" kind="file" id="419396" changeset="34637" />
+  <entry name="fTaskCommandBackup.vb" kind="file" id="419397" changeset="34637" />
+  <entry name="mAux.vb" kind="file" id="419398" changeset="34637" />
+  <entry name="mAuxSrv.vb" kind="file" id="419399" changeset="34637" />
+  <entry name="mEncrypt.vb" kind="file" id="419400" changeset="34637" />
+  <entry name="mFile.vb" kind="file" id="419401" changeset="34637" />
+  <entry name="mIni.vb" kind="file" id="419402" changeset="34637" />
+  <entry name="mPublic.vb" kind="file" id="419403" changeset="34637" />
+  <entry name="mRegistry.vb" kind="file" id="419404" changeset="34637" />
+  <entry name="mSchedule.vb" kind="file" id="419405" changeset="34637" />
+  <entry name="mTask.vb" kind="file" id="419406" changeset="34637" />
+  <entry name="My Project" kind="folder" id="419407" changeset="34637" shadow="5b4d6947046843709d6832c6642c59d2" />
+  <entry name="mZip.vb" kind="file" id="419414" changeset="34637" />
+  <entry name="Resources" kind="folder" id="419415" changeset="34637" shadow="7735ff26eeba4eb6844087430888fc80" />
+</entries>

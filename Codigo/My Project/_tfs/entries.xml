@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs03.codeplex.com:443/" path="$/csbackup/CSBackup.Net/Codigo/My Project/" id="419407" changeset="34637" shadow="5b4d6947046843709d6832c6642c59d2" />
+  <entry name="CSBackup.Designer.vb" kind="file" id="419408" changeset="34637" />
+  <entry name="CSBackup.myapp" kind="file" id="419409" changeset="34637" />
+  <entry name="CSBackupSrv.Designer.vb" kind="file" id="419410" changeset="34637" />
+  <entry name="CSBackupSrv.myapp" kind="file" id="419411" changeset="34637" />
+  <entry name="Resources.Designer.vb" kind="file" id="419412" changeset="34637" />
+  <entry name="Resources.resx" kind="file" id="419413" changeset="34637" />
+</entries>

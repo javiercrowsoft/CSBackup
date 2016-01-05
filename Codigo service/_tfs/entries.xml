@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs03.codeplex.com:443/" path="$/csbackup/CSBackup.Net/Codigo service/" id="419315" changeset="34637" shadow="424cd7754479406185a66a223ac4cfda" />
+  <entry name="AssemblyInfo.vb" kind="file" id="419316" changeset="34637" />
+  <entry name="CSBackupService.sln" kind="file" id="419317" changeset="34637" />
+  <entry name="CSBackupService.suo" kind="file" id="419318" changeset="34637" />
+  <entry name="CSBackupService.vbproj" kind="file" id="419320" changeset="34637" />
+  <entry name="CSBackupService.vbproj.user" kind="file" id="419319" changeset="34637" />
+  <entry name="My Project" kind="folder" id="419321" changeset="34637" shadow="efbf19bd101f443ba64521d2ce8c311f" />
+  <entry name="ProjectInstaller.Designer.vb" kind="file" id="419322" changeset="34637" />
+  <entry name="ProjectInstaller.resx" kind="file" id="419323" changeset="34637" />
+  <entry name="ProjectInstaller.vb" kind="file" id="419324" changeset="34637" />
+  <entry name="WinService1.vb" kind="file" id="419325" changeset="34637" />
+</entries>

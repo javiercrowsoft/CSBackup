@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CSBackupSrv", "CSBackupSrv.vbproj", "{A571B970-14BA-484C-8CD0-B7D1FC307D0A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CSBackupServiceTest", "..\CSBackupServiceTest\CSBackupServiceTest.vbproj", "{D4BF4978-7BC2-44C1-8DD7-794F759A7865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A571B970-14BA-484C-8CD0-B7D1FC307D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A571B970-14BA-484C-8CD0-B7D1FC307D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A571B970-14BA-484C-8CD0-B7D1FC307D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A571B970-14BA-484C-8CD0-B7D1FC307D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BF4978-7BC2-44C1-8DD7-794F759A7865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BF4978-7BC2-44C1-8DD7-794F759A7865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BF4978-7BC2-44C1-8DD7-794F759A7865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BF4978-7BC2-44C1-8DD7-794F759A7865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

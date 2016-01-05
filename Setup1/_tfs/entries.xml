@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs03.codeplex.com:443/" path="$/csbackup/CSBackup.Net/Setup1/" id="419434" changeset="34637" shadow="0c0ddafe41ac46d58a629243a0c00be2" />
+  <entry name="Debug" kind="folder" id="419435" changeset="34637" shadow="ec326496a2874445b4566372bf25421a" />
+  <entry name="Release" kind="folder" id="419436" changeset="34637" shadow="917f1f676dd44821b92323b7670553af" />
+  <entry name="Setup1.vdproj" kind="file" id="419437" changeset="34637" />
+</entries>

@@ -1,0 +1,9 @@
+[Config]
+UseMasterPassword = 0
+PasswordTestValue = kamekamehaaa
+db_path = D:\proyectos\z-BackUp
+InitWithWindows = 0
+PasswordFiles = 
+ftp_type=2 ;usar ftp command
+ftp_exe_path=c:\windows\system32\ftp.exe
+[Windows]

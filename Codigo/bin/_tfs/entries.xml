@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs03.codeplex.com:443/" path="$/csbackup/CSBackup.Net/Codigo/bin/" id="419329" changeset="34637" shadow="9dfd2e49cf9d469791ca81911b53a660" />
+  <entry name="CSBackup.ini" kind="file" id="419330" changeset="34637" />
+  <entry name="database" kind="folder" id="419331" changeset="34637" shadow="02bdcb33e607407998994bdb01ddfac5" />
+  <entry name="ICSharpCode.SharpZipLib.dll" kind="file" id="419332" changeset="34637" />
+  <entry name="Nini.dll" kind="file" id="419333" changeset="34637" />
+</entries>

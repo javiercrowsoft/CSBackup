@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<entries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entry name="" kind="folder" url="https://tfs03.codeplex.com:443/" path="$/csbackup/CSBackup.Net/Setup Files/" id="419432" changeset="34637" shadow="c822223923f84c868688373ed41426c3" />
+  <entry name="CSBackup.ini" kind="file" id="419433" changeset="34637" />
+</entries>

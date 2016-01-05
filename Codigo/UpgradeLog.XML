@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CSBackup">
+</Property><Property Name="Solution File" Value="C:\proyectos.net\CSBackup.Net\Codigo\CSBackup.sln">
+</Property><Property Name="Date" Value="Monday, January 04, 2016">
+</Property><Property Name="Time" Value="15:23 PM">
+</Property></Properties><Event ErrorLevel="0" Project="CSBackup" Source="CSBackup.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CSBackup" Source="CSBackup.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CSBackup.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CSBackup.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CSBackup" Source="CSBackup.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

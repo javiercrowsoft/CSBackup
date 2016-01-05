@@ -1,0 +1,65 @@
+Option Strict Off
+Option Explicit On
+
+Imports Nini.Config
+
+Module mIni
+	
+	Private Const C_Module As String = "mIni"
+	
+  ' standard API declarations for INI access
+
+  Public Function GetIniValue(ByVal Section As String, ByVal Item As String, ByVal DefaultValue As String, ByVal File As String) As String
+    Try
+
+      Dim source As IniConfigSource
+
+      source = New IniConfigSource(File)
+
+      GetIniValue = source.Configs(Section).Get(Item, DefaultValue)
+
+    Catch ex As Exception
+
+      MngError(ex, "GetIniValue", C_Module, "")
+
+      GetIniValue = ""
+
+    End Try
+  End Function
+
+  Public Sub SetIniValue(ByVal Section As Object, ByVal Item As String, ByVal Value As String, ByVal File As String)
+    Try
+
+      Dim source As IniConfigSource
+
+      source = New IniConfigSource(File)
+
+      source.Configs(Section).Set(Item, Value)
+
+      source.Save()
+
+    Catch ex As Exception
+
+      MngError(ex, "SetIniValue", C_Module, "")
+
+    End Try
+  End Sub
+	
+	Public Function GetIniFullFile(ByVal FileName As String) As Object
+    GetIniFullFile = (My.Application.Info.DirectoryPath & "\" & FileName)
+	End Function
+	
+	Public Sub GetMainIniLogin(ByRef Servers As String, ByRef Users As String, ByRef SecurityType As String, ByRef LastServer As String)
+    LastServer = GetIniValue(csSecSQLServer, c_K_LoginLastServer, LastServer, GetIniFullFile(csIniFile))
+    Servers = GetIniValue(csSecSQLServer, c_K_LoginServers, Servers, GetIniFullFile(csIniFile))
+    Users = GetIniValue(csSecSQLServer, c_K_LoginUsers, Users, GetIniFullFile(csIniFile))
+    SecurityType = GetIniValue(csSecSQLServer, c_K_SecurityType, SecurityType, GetIniFullFile(csIniFile))
+	End Sub
+	
+	Public Sub SaveMainIniLogin(ByVal Servers As String, ByVal Users As String, ByVal SecurityType As String, ByRef LastServer As String)
+    SetIniValue(csSecSQLServer, c_K_LoginLastServer, LastServer, GetIniFullFile(csIniFile))
+    SetIniValue(csSecSQLServer, c_K_LoginServers, Servers, GetIniFullFile(csIniFile))
+    SetIniValue(csSecSQLServer, c_K_LoginUsers, Users, GetIniFullFile(csIniFile))
+    SetIniValue(csSecSQLServer, c_K_SecurityType, SecurityType, GetIniFullFile(csIniFile))
+	End Sub
+End Module
